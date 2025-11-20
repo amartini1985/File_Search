@@ -128,9 +128,8 @@ if __name__ == '__main__':
     result_listbox.pack()
     button_result.pack()
 
-    # выставляем иконку от сглаза
+    # выставляем иконку от сглаза!!!!
     icon = tkinter.PhotoImage(file='smile.ico')
     root.iconphoto(False, icon)
-
 
     root.mainloop()
